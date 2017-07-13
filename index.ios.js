@@ -5,7 +5,7 @@
  */
 
 import React, { Component } from 'react';
-import {
+import{
   AppRegistry,
   StyleSheet,
   Text,
