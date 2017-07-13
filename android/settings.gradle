@@ -1,0 +1,3 @@
+rootProject.name = 'NativeConnectDemo'
+
+include ':app', ':ValidateSDK'
